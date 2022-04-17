@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Workspace\\Pessoal\\DataFIFA-API\\tests\\DataFifa.UnitTests\\DataFifa.UnitTests.csproj": {}
+    "D:\\Workspace\\Pessoal\\DataFIFA-API\\tests\\DataFifa.UnitTests\\DataFIFA.UnitTests.csproj": {}
   },
   "projects": {
-    "D:\\Workspace\\Pessoal\\DataFIFA-API\\tests\\DataFifa.UnitTests\\DataFifa.UnitTests.csproj": {
+    "D:\\Workspace\\Pessoal\\DataFIFA-API\\DataFIFA.Domain\\DataFIFA.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Workspace\\Pessoal\\DataFIFA-API\\tests\\DataFifa.UnitTests\\DataFifa.UnitTests.csproj",
-        "projectName": "DataFifa.UnitTests",
-        "projectPath": "D:\\Workspace\\Pessoal\\DataFIFA-API\\tests\\DataFifa.UnitTests\\DataFifa.UnitTests.csproj",
+        "projectUniqueName": "D:\\Workspace\\Pessoal\\DataFIFA-API\\DataFIFA.Domain\\DataFIFA.Domain.csproj",
+        "projectName": "DataFIFA.Domain",
+        "projectPath": "D:\\Workspace\\Pessoal\\DataFIFA-API\\DataFIFA.Domain\\DataFIFA.Domain.csproj",
         "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
-        "outputPath": "D:\\Workspace\\Pessoal\\DataFIFA-API\\tests\\DataFifa.UnitTests\\obj\\",
+        "outputPath": "D:\\Workspace\\Pessoal\\DataFIFA-API\\DataFIFA.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,16 +44,83 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Workspace\\Pessoal\\DataFIFA-API\\tests\\DataFifa.UnitTests\\DataFIFA.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workspace\\Pessoal\\DataFIFA-API\\tests\\DataFifa.UnitTests\\DataFIFA.UnitTests.csproj",
+        "projectName": "DataFIFA.UnitTests",
+        "projectPath": "D:\\Workspace\\Pessoal\\DataFIFA-API\\tests\\DataFifa.UnitTests\\DataFIFA.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
+        "outputPath": "D:\\Workspace\\Pessoal\\DataFIFA-API\\tests\\DataFifa.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/wizsolucoes/_packaging/WizCross/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Workspace\\Pessoal\\DataFIFA-API\\DataFIFA.Domain\\DataFIFA.Domain.csproj": {
+                "projectPath": "D:\\Workspace\\Pessoal\\DataFIFA-API\\DataFIFA.Domain\\DataFIFA.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.6.0, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[16.11.0, )"
+              "version": "[17.1.0, )"
             },
             "coverlet.collector": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.0, )"
+              "version": "[3.1.2, )"
             },
             "xunit": {
               "target": "Package",

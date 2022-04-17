@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iiWD3lNEAVpyKNqX1uUjupEcXkerhT3Z2pPqnDF1Ae4=",
+  "Source": "DataFIFA.API",
+  "BasePath": "_content/DataFIFA.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
