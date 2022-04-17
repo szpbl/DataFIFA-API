@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1C65D31C-59B3-4F63-8AD4-78E5A2C1CEB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataFIFA.API", "src\DataFIFA.API\DataFIFA.API.csproj", "{6B9988DE-D5A6-4855-9B54-3ABB28FDBD19}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{C3258462-2D2A-46AC-8CCD-F6A8C26A6274}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataFifa.UnitTests", "tests\DataFifa.UnitTests\DataFifa.UnitTests.csproj", "{71AD8240-5AED-42E7-9CBB-9BD716EC6667}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B9988DE-D5A6-4855-9B54-3ABB28FDBD19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B9988DE-D5A6-4855-9B54-3ABB28FDBD19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B9988DE-D5A6-4855-9B54-3ABB28FDBD19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B9988DE-D5A6-4855-9B54-3ABB28FDBD19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71AD8240-5AED-42E7-9CBB-9BD716EC6667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71AD8240-5AED-42E7-9CBB-9BD716EC6667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71AD8240-5AED-42E7-9CBB-9BD716EC6667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71AD8240-5AED-42E7-9CBB-9BD716EC6667}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6B9988DE-D5A6-4855-9B54-3ABB28FDBD19} = {1C65D31C-59B3-4F63-8AD4-78E5A2C1CEB3}
+		{71AD8240-5AED-42E7-9CBB-9BD716EC6667} = {C3258462-2D2A-46AC-8CCD-F6A8C26A6274}
+	EndGlobalSection
+EndGlobal
