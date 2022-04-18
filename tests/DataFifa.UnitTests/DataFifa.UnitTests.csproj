@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\DataFIFA.Domain\DataFIFA.Domain.csproj" />
+    <ProjectReference Include="..\..\src\DataFIFA.Domain\DataFIFA.Domain.csproj" />
   </ItemGroup>
 
 </Project>

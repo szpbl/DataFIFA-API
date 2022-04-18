@@ -6110,8 +6110,8 @@
     },
     "DataFIFA.Domain/1.0.0": {
       "type": "project",
-      "path": "../../DataFIFA.Domain/DataFIFA.Domain.csproj",
-      "msbuildProject": "../../DataFIFA.Domain/DataFIFA.Domain.csproj"
+      "path": "../../src/DataFIFA.Domain/DataFIFA.Domain.csproj",
+      "msbuildProject": "../../src/DataFIFA.Domain/DataFIFA.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6157,8 +6157,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Workspace\\Pessoal\\DataFIFA-API\\DataFIFA.Domain\\DataFIFA.Domain.csproj": {
-              "projectPath": "D:\\Workspace\\Pessoal\\DataFIFA-API\\DataFIFA.Domain\\DataFIFA.Domain.csproj"
+            "D:\\Workspace\\Pessoal\\DataFIFA-API\\src\\DataFIFA.Domain\\DataFIFA.Domain.csproj": {
+              "projectPath": "D:\\Workspace\\Pessoal\\DataFIFA-API\\src\\DataFIFA.Domain\\DataFIFA.Domain.csproj"
             }
           }
         }

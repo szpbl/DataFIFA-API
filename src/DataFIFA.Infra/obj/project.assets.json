@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspace\\Pessoal\\DataFIFA-API\\DataFIFA.Domain\\DataFIFA.Domain.csproj",
-      "projectName": "DataFIFA.Domain",
-      "projectPath": "D:\\Workspace\\Pessoal\\DataFIFA-API\\DataFIFA.Domain\\DataFIFA.Domain.csproj",
+      "projectUniqueName": "D:\\Workspace\\Pessoal\\DataFIFA-API\\src\\DataFIFA.Infra\\DataFIFA.Infra.csproj",
+      "projectName": "DataFIFA.Infra",
+      "projectPath": "D:\\Workspace\\Pessoal\\DataFIFA-API\\src\\DataFIFA.Infra\\DataFIFA.Infra.csproj",
       "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspace\\Pessoal\\DataFIFA-API\\DataFIFA.Domain\\obj\\",
+      "outputPath": "D:\\Workspace\\Pessoal\\DataFIFA-API\\src\\DataFIFA.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
