@@ -10,3 +10,15 @@ D:\Workspace\Pessoal\DataFIFA-API\DataFIFA.Domain\obj\Debug\net6.0\DataFIFA.Doma
 D:\Workspace\Pessoal\DataFIFA-API\DataFIFA.Domain\obj\Debug\net6.0\refint\DataFIFA.Domain.dll
 D:\Workspace\Pessoal\DataFIFA-API\DataFIFA.Domain\obj\Debug\net6.0\DataFIFA.Domain.pdb
 D:\Workspace\Pessoal\DataFIFA-API\DataFIFA.Domain\obj\Debug\net6.0\ref\DataFIFA.Domain.dll
+D:\Workspace\Pessoal\DataFIFA-API\src\DataFIFA.Domain\bin\Debug\net6.0\DataFIFA.Domain.deps.json
+D:\Workspace\Pessoal\DataFIFA-API\src\DataFIFA.Domain\bin\Debug\net6.0\DataFIFA.Domain.dll
+D:\Workspace\Pessoal\DataFIFA-API\src\DataFIFA.Domain\bin\Debug\net6.0\DataFIFA.Domain.pdb
+D:\Workspace\Pessoal\DataFIFA-API\src\DataFIFA.Domain\obj\Debug\net6.0\DataFIFA.Domain.csproj.AssemblyReference.cache
+D:\Workspace\Pessoal\DataFIFA-API\src\DataFIFA.Domain\obj\Debug\net6.0\DataFIFA.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Pessoal\DataFIFA-API\src\DataFIFA.Domain\obj\Debug\net6.0\DataFIFA.Domain.AssemblyInfoInputs.cache
+D:\Workspace\Pessoal\DataFIFA-API\src\DataFIFA.Domain\obj\Debug\net6.0\DataFIFA.Domain.AssemblyInfo.cs
+D:\Workspace\Pessoal\DataFIFA-API\src\DataFIFA.Domain\obj\Debug\net6.0\DataFIFA.Domain.csproj.CoreCompileInputs.cache
+D:\Workspace\Pessoal\DataFIFA-API\src\DataFIFA.Domain\obj\Debug\net6.0\DataFIFA.Domain.dll
+D:\Workspace\Pessoal\DataFIFA-API\src\DataFIFA.Domain\obj\Debug\net6.0\refint\DataFIFA.Domain.dll
+D:\Workspace\Pessoal\DataFIFA-API\src\DataFIFA.Domain\obj\Debug\net6.0\DataFIFA.Domain.pdb
+D:\Workspace\Pessoal\DataFIFA-API\src\DataFIFA.Domain\obj\Debug\net6.0\ref\DataFIFA.Domain.dll

@@ -23,7 +23,7 @@ namespace DataFIFA.UnitTests
             match.AddGoal(player, player2);
 
             player.Goals.Should().HaveCount(3);
-            player2.Assists.Should().HaveCount(2);
+            player2.Assists.Should().HaveCount(4);
         }
     }
 }
